@@ -1,0 +1,12 @@
+{
+    "method": "Z-score",
+    "threshold": 0.5,
+    "precision": 0.2756,
+    "recall": 0.9998,
+    "f1": 0.4321,
+    "total_detected": 44520,
+    "true_positives": 12270,
+    "false_positives": 32250,
+    "false_negatives": 2,
+    "true_negatives": 12
+}
