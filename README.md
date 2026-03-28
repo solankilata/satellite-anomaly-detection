@@ -1,4 +1,4 @@
-﻿# Satellite Telemetry Anomaly Detection
+# Satellite Telemetry Anomaly Detection
 
 **Comparative Analysis of Statistical and Time Series Methods for Anomaly Detection in Spacecraft Subsystem Telemetry**
 
