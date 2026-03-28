@@ -1,0 +1,15 @@
+{
+    "method": "ARIMA",
+    "order": "(1,1,1)",
+    "sensor": "Volume Flow RateRMS",
+    "window_size": 2000,
+    "refit_every": 200,
+    "precision": 0.4838,
+    "recall": 0.2743,
+    "f1": 0.3501,
+    "total_detected": 6958,
+    "true_positives": 3366,
+    "false_positives": 3592,
+    "false_negatives": 8906,
+    "true_negatives": 28670
+}
