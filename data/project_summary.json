@@ -1,0 +1,19 @@
+{
+    "dataset": "SKAB - Skoltech Anomaly Benchmark",
+    "total_rows": 44534,
+    "total_anomalies": 12272,
+    "total_normal": 32262,
+    "anomaly_percentage": 27.56,
+    "zscore_best_threshold": 0.5,
+    "zscore_precision": 0.2756,
+    "zscore_recall": 0.9998,
+    "zscore_f1": 0.4321,
+    "arima_order": "(1,1,1)",
+    "arima_sensor": "Volume Flow RateRMS",
+    "arima_precision": 0.4838,
+    "arima_recall": 0.2743,
+    "arima_f1": 0.3501,
+    "winner_precision": "ARIMA",
+    "winner_recall": "Z-score",
+    "winner_f1": "Z-score"
+}
