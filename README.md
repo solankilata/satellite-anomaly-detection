@@ -11,8 +11,8 @@ A term project for BSc Honours in Data Science and Artificial Intelligence — I
 This project implements and compares two anomaly detection methods on real sensor telemetry data from the SKAB benchmark dataset. The dataset contains 44,534 sensor readings across 33 experiments with ground truth anomaly labels — physically equivalent to spacecraft subsystem sensors.
 
 **Two methods are implemented and compared:**
-- Z-score statistical threshold detection — DA206 Statistical Inferencing
-- ARIMA residual detection — DA210 Time Series Analysis
+- Z-score statistical threshold detection 
+- ARIMA residual detection 
 
 Results are visualized through an interactive Streamlit dashboard.
 
@@ -79,16 +79,7 @@ streamlit run app.py
 
 ---
 
-## Courses Referenced
-
-- DA102 — Data Analysis Basics
-- DA206 — Statistical Inferencing
-- DA210 — Time Series Analysis and Forecasting
-- DA209 — Data Modeling and Visualization
-
----
-
-## Author
+## Project By
 
 **Lata Solanki**
 Roll Number: 23035010508
